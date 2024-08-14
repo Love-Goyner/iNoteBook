@@ -1,0 +1,15 @@
+.form-group input::placeholder {
+    color: #585a5d;
+}
+
+.form-group textarea::placeholder{
+    color: #585a5d;
+}
+
+.form-group input{
+    border:solid 1px #585a5d;
+}
+
+.form-group textarea{
+    border:solid 1px #585a5d;
+}
